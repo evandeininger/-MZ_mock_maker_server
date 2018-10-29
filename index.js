@@ -42,7 +42,7 @@ const boxUsers = {
 }
 
 if (process.env.NODE_ENV !== 'production') {
-	// require('dotenv').load();
+	require('dotenv').load();
 }
 
 // Box app secrets stored as environment variables.
