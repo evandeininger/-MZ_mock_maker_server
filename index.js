@@ -111,7 +111,7 @@ let sdk = new BoxSDK({
 const whitelist = [
 	'http://localhost:3001',
 	'http://localhost:3000',
-	'http://mockmaker.staging.microzines.com.s3-website-us-east-1.amazonaws.com/',
+	'http://mockmaker.staging.microzines.com.s3-website-us-east-1.amazonaws.com',
 	'https://mockmaker.staging.microzines.com'
 ];
 let corsOptions = {
